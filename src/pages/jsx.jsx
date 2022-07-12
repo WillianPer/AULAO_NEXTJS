@@ -1,7 +1,7 @@
 export default function Jsx() {
-    const a = 4
-    const b = 3
-    console.log(a * b)
+    // const a = 4
+    // const b = 3
+    // console.log(a * b)
     
     const obj = {nome: "João", idade: 30}
 
@@ -16,8 +16,8 @@ export default function Jsx() {
 
             {titulo}
 
-            <h2>{a * b}</h2>
-            <h2>{Math.random()}</h2>
+            {/* <h2>{a * b}</h2>
+            <h2>{Math.random()}</h2> */}
             
             {subTitulo()}
 
